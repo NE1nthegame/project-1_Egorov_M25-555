@@ -1,0 +1,22 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Файлы сборки и дистрибуции
+dist/
+build/
+*.egg-info/
+
+# Кэш линтера Ruff
+.ruff_cache/
+
+# Файлы окружения и настройки IDE
+.env
+.vscode/
+.idea/
