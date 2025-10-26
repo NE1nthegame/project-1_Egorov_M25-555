@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "project-1-egorov-m25-555"
-version = "0.1.0"
+version = "1.0.0"
 description = ""
 authors = ["Georgii Egorov"]
 readme = "README.md"
@@ -31,3 +31,5 @@ exclude = ["venv", ".venv", "dist", "__pycahe__"]
 [tool.ruff.lint]
 select = ["E","F","I"]
 ignore = []
+[tool.ruff.format]
+quote-style = "double"
