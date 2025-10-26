@@ -40,4 +40,4 @@ quit или exit - выйти из игры
 Односложные команды движения:
 north, south, east, west - аналогично go <direction>
 ## Демонстрация
-https://asciinema.org/connect/3b99663d-7774-46f7-927b-cfcafddfd21b
+https://asciinema.org/a/UacgfG2TkMECophsBg3L08lsf
